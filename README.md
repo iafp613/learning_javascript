@@ -41,11 +41,11 @@ _(En construcción)_
 
 ## Autores ✒️
 
-* **Nacho Fontal** - *Trabajo Principal* - [Nacho Fontal](www.linkedin.com/in/iafp) - LinkedIn
+* **Nacho Fontal** - *Proyecto Propio* - [Nacho Fontal](www.linkedin.com/in/iafp) - LinkedIn
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
+Este proyecto está bajo la Licencia GNU GENERAL PUBLIC - (mira el archivo [LICENSE.md](https://github.com/iafp613/learning_javascript/blob/main/LICENSE)
 
 ## Expresiones de Gratitud 🎁
 
