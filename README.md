@@ -1,4 +1,4 @@
-<h1 align="center"> ¡Conviértete en un desarrollador JavaScript</h1>
+<h1 align="center"> ¡Conviértete en un desarrollador JavaScript!</h1>
 <p align="center"><img src="https://www.freecodecamp.org/espanol/news/content/images/2021/02/jsposter-1-.jpg"/></p>
 
 _Aquí tendrás todo lo necesario para aprender JavaScript. ¿Lo mejor? ¡Totalmente en Español!_
