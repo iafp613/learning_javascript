@@ -45,7 +45,7 @@ _(En construcción)_
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia GNU GENERAL PUBLIC - (mira el archivo [LICENSE.md](https://github.com/iafp613/learning_javascript/blob/main/LICENSE)
+Este proyecto está bajo la Licencia GNU GENERAL PUBLIC - mira el archivo [LICENSE.md](https://github.com/iafp613/learning_javascript/blob/main/LICENSE)
 
 ## Expresiones de Gratitud 🎁
 
